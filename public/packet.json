@@ -1,0 +1,24 @@
+{
+  files: [
+    { 
+      name: "underscore.js",
+      src: "http://grid-service.herokuapp.com/underscore.js"
+    },
+    {
+      name: "md5.js",
+      src: "http://grid-service.herokuapp.com/md5.js"
+    },
+    {
+      name: "words.js",
+      src: "http://grid-service.herokuapp.com/words.js"
+    },
+    {
+      name: "input.js",
+      src: "http://grid-service.herokuapp.com/input.js"
+    },
+    {
+      name: "compute.js",
+      src: "http://grid-service.herokuapp.com/compute.js"
+    }
+  ]
+}
